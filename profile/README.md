@@ -3,6 +3,8 @@
 <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/gomesgroup"/></a>
 [![Paton Lab GitHub - Follow on Twitter](https://img.shields.io/twitter/follow/bobbypaton?color=blue&label=Twitter&logo=Twitter&logoColor=blue&style=for-the-badge)](https://x.com/bobbypaton)
 
+![https://www.instagram.com/paton_research_group/]({[BadgeURLHere](https://www.instagram.com/paton_research_group/)})
+
 <!--
 
 **Here are some ideas to get you started:**
