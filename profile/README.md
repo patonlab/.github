@@ -7,29 +7,11 @@
 [![Robert Paton LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robertpaton1/)
 [![Paton Lab Linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/patonlab)
 
+**About us:**
 
+🙋‍♀️ **The Paton Research Group**: Research in the Paton group is focused on the development of computational tools to accelerate chemical discovery.
 
+🌈 Contribution guidelines - feel free to submit pull requests or issues for any project. Requests for collaboration welcome!
 
+👩‍💻 For related information and publications see the [Paton group website](https://patonlab.colostate.edu)
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-
----
-### our philosophy
-
-Solving problems in chemistry and engineering with computers
-
-### who we are
-
-*The Gomes group is broadly interested in the development of novel
-reactions, catalysis and materials. We seek to solve these problems by combining
-state-of-the-art machine learning with computational chemistry methods. We are also early adopters
-of experimental automation. Our hope is a revolution in how chemistry is asked, explored and answered.*
--->
