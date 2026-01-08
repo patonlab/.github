@@ -2,6 +2,7 @@
 
 <div align="center">
 
+<img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/patonlab"/></a>
 [![Lab Website](https://img.shields.io/badge/🔬_Lab_Website-Visit-4A90E2?style=for-the-badge)](https://patonlab.colostate.edu)
 [![Main Repository](https://img.shields.io/badge/📦_Main_Code-patonlab-2ea44f?style=for-the-badge)](https://github.com/patonlab)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.co.uk/citations?hl=en&user=V6SXhCsAAAAJ)
